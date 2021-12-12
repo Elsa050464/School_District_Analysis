@@ -1,10 +1,10 @@
 # School_District_Analysis2
-##Overview of the school district analysis: 
-The school board is planning for the next school years budget and wanted to make sure that the School District were providing funds appropriately for each school. Also, the data scientist was tasked to analyze the standardized test on each school’s performance by the district level. The main focus of this analysis are on the math and reading performance/scores. When the school board is reviewing the data, they suspected a possible cheating/dishonesty among the 9th graders at Thomas High School. In this regard, the school board decided to remove and analyzed again for comparison.
-##Resources
+## Overview of the school district analysis: 
+The school board is planning for the next school year's budget and wanted to make sure that the School District were providing funds appropriately for each school. The data scientist was tasked to analyze the standardized test on each school’s performance by the district level. The main focus of this analysis are on the subjects -  math and reading performance/scores. When the school board is reviewing the data, they suspected a possible cheating/dishonesty among the 9th graders at Thomas High School so they decided to remove the 9th grader score by putting NaN and rerun or analyze the report again for comparison.
+## Resources
 Resources: All data used in this analysis is found inside of the Resources folder.
 Software: Python 3.7, Anaconda, Jupyter Notebook
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 o	How is the district summary affected? 
 Though 461 student’s grades were flagged as “null” the overall data did not change as the report were run by student ID which were not turned out as null and not by grades
