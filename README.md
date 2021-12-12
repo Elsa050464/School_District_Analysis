@@ -32,8 +32,8 @@ Thomas HS is within the $630-$644 per student spending range. The 9th grade scor
  !['ninth screenshot results'](Resources/Picture11.png) 
 	Scores by school type
  !['tenth screenshot results'](Resources/Picture12.png) 
-##Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-a.	The overall passing rate for Thomas High School dramatically changed from 91% to 65%.
-b.	Thomas High School's ranking dropped from 2nd to 8th in the district of 15 school.
-c.	Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School. Some reports have a minor impact that were insignificant, but some were major 
-d.	The overall passing rate, the math and reading averages and passing percentages all changed.
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### a.	The overall passing rate for Thomas High School dramatically changed from 91% to 65%.
+### b.	Thomas High School's ranking dropped from 2nd to 8th in the district of 15 school.
+### c.	Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School. Some reports have a minor impact that were insignificant, but some were major 
+### d.	The overall passing rate, the math and reading averages and passing percentages all changed.
